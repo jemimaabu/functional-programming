@@ -1,2 +1,2 @@
 # functional-programming
-A introduction to functional programming using JavaScript
+A workshop on functional programming using JavaScript
