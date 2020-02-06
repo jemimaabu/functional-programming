@@ -10,9 +10,10 @@ This workshop is for you if:
 - You're acquainted with the JavaScript language and you want to 
 - You've never even heard of functional programming but you're a curious one anyway
 
-## What's in it for me?
+## What do I get out of it?
 
-## How do I get started
+
+## How do I get started?
 There's a couple of steps to get started with this workshop:
 1. [Clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) this repository
 2. Open the [index.html](index.html) file in a browser
@@ -21,8 +22,8 @@ This workshop doesn't involve the use of any frameworks so it's more beginner-fr
 
 Whenever you make a change to the JavaScript file listed in the exercise, refresh the index page to view the changes.
 
-## Making the most of it
-The aim of this workshop is to get you (yes, you personally) comfortable with functional programming so if at any point, you feel that aim isn't being achieved then you can:
+## What if I don't get it?
+The aim of this workshop is to get you (yes, you personally) comfortable with functional programming so if at any point, you feel that aim isn't being achieved or you're stuck on a particular concept, then you can:
 - Ask the instructor for hands-on help
 - Utilize the resources listed below or feel free to Google any errors you run into if you don't like the idea of calling out to someone (believe me, I can relate)
 - Check out the completed exercise (let this be a last last very last resort though, it feels so much more satisfactory if you figure it out on your own ;))
