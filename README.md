@@ -11,7 +11,14 @@ This workshop is for you if:
 - You've never even heard of functional programming but you're a curious one anyway
 
 ## What do I get out of it?
+This workshop is a beginner-friendly introduction to the concept of functional programming written in JavaScript.
 
+By the end of this workshop, you should:
+- understand the concept of functional programming and the benefits of its application
+- know what pure functions are and how to write them
+- know what higher order functions (with relation to JavaScript) are and how to use them
+- understand what currying and composition mean
+- know how to avoid mutating data, changing global variables and other side effects in your code
 
 ## How do I get started?
 There's a couple of steps to get started with this workshop:
