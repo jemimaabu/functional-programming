@@ -34,3 +34,5 @@ The aim of this workshop is to get you (yes, you personally) comfortable with fu
 - Ask the instructor for hands-on help
 - Utilize the resources listed below or feel free to Google any errors you run into if you don't like the idea of calling out to someone (believe me, I can relate)
 - Check out the completed exercise (let this be a last last very last resort though, it feels so much more satisfactory if you figure it out on your own ;))
+
+## Resources
