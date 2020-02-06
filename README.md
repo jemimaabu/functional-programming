@@ -7,7 +7,7 @@ In this workshop, we're going to explore how the paradigm of functional programm
 This workshop is for you if:
 - You've come across the concept of functional programming and you're interested in learning more about the practical applications
 - You've worked with functional languages before (Haskell,  Elm, Erlang etc) and you'd like to explore a different aspect
-- You're acquainted with the JavaScript language and you want to 
+- You're acquainted with the JavaScript language and you want to apply a programming paradigm to it
 - You've never even heard of functional programming but you're a curious one anyway
 
 ## What do I get out of it?
