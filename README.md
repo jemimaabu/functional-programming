@@ -25,7 +25,7 @@ There's a couple of steps to get started with this workshop:
 1. [Clone](https://help.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository) this repository
 2. Open the [index.html](index.html) file in a browser
 
-This workshop doesn't involve the use of any frameworks so it's more beginner-friendly. 
+This workshop does not involve the use of any frameworks so it's more beginner-friendly. 
 
 Whenever you make a change to the JavaScript file listed in the exercise, refresh the index page to view the changes.
 
