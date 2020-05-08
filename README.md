@@ -36,4 +36,4 @@ The aim of this workshop is to get you (yes, you personally) comfortable with fu
 - Check out the completed exercise (let this be a last last very last resort though, it feels so much more satisfactory if you figure it out on your own ;))
 
 ## Resources
-- [An Introduction to the basic principles of Functional Programming](https://www.freecodecamp.org/news/an-introduction-to-the-basic-principles-of-functional-programming-a2c2a15c84/)
+- [An Introduction to the Basic Principles of Functional Programming](https://www.freecodecamp.org/news/an-introduction-to-the-basic-principles-of-functional-programming-a2c2a15c84/)
